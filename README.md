@@ -11,10 +11,6 @@ FrontEnd Nanodegree program.
 
 * Clone the repository and open the `index.html` file.
 
-OR
-
-* Visit this link :<a href="https://samde4574.github.io/FeedReader.github.io/index.html">FeedReader</a>
-
 ## Tests description:
 
 * All Feed have a URL.
