@@ -10,9 +10,10 @@ FrontEnd Nanodegree program.
 ## Instructions to run tests:
 
 * Clone the repository and open the `index.html` file.
+
 OR
 
-* Visit this link :<a href="#">FeedReader</a>
+* Visit this link :<a href="https://samde4574.github.io/FeedReader.github.io/index.html">FeedReader</a>
 
 ## Tests description:
 
