@@ -13,9 +13,9 @@ FrontEnd Nanodegree program.
 
 ## Tests description:
 
-* All Feed have a URL.
+* All Feed has a URL.
 
-* All Feed have a Name.
+* All Feed has a Name.
 
 * The menu is Hidden.
 
